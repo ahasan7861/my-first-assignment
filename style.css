@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+
+.div {
+    display: block;
+}
+
+.header{
+    
+    background-image: url(images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.h1 {
+    display: block;
+    font-size: 65px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.banner{
+    
+    align-items: center;
+    margin: 0 200px;
+    text-align:right;   
+
+}
+
+
+.banner-title{
+    position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+}
+
+.banner-description{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: right;
+
+color: #FFFFFF;
+    
+}
+
+.btn-primary{
+    
+       position: absolute;
+       width: 160px;
+        height: 64px;
+       left: 1210px;
+        top: 578px;
+        background-color:  #FFFFFF;;
+        color: #005FAC;; 
+        border: none;
+        border-radius: 5px;
+        font-size: large;
+        cursor: pointer;
+}
+
+/*header banner end*/
+
+section {
+    margin: 50px;
+}
+
+div {
+    display: block;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.women-long-hair img {
+    width: 450px;
+    height: 450px;
+    border-radius: 5px;
+}
+
+.amazing-women {
+    margin: auto 10px;
+}
+
+.amazing-womens-title {
+    text-align: left;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.amazing-womens-description {
+    text-align: left;
+    font-size: 15px;
+    margin: 20px 0px;
+}
+
+.women {
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+    justify-content: center;
+}
+
+li {
+    text-align: left;
+    font-size: 15px;
+    margin: 15px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+.plan-title-head {
+    font-weight: 800;
+    font-size: 40px;
+    display: block;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.plans {
+    display: flex;
+    gap: 30px;
+    color: black;
+}
+
+.plan {
+    text-align: center;
+    padding: 60px 30px;
+   
+    border-radius: 5px;
+}
+
+.plan-title {
+    text-align: left;
+    color: black;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 35px;
+}
+
+p {
+    color: #838282;
+    
+    
+}
+
+.my-4-plans{
+
+    display: block;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.x{
+    background-image: url(images/watch.png);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+
+}
+
+.main-middle-banner-z{
+
+    
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.main-middle-banner-title{
+    position: relative;
+    z-index: 1;
+}
+
