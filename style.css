@@ -6,6 +6,7 @@
 
 .div {
     display: block;
+
 }
 
 .header{
@@ -70,7 +71,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 26px;
-/* or 162% */
+
 
 text-align: right;
 
@@ -216,6 +217,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: left;
+    margin-bottom: 50px;
     
 
 }
@@ -226,10 +228,94 @@ p {
     width: 100%;
     margin: auto;
     text-align: center;
+    inl
 }
 
 .main-middle-banner-title{
     position: relative;
     z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.footer-title {
+    color: white;
+    padding: 20px;
+}
+
+
+.footer-des {
+    color: white;
+    padding: 20px;
+}
+
+.footer-email {
+    color: white;
+    padding: 20px;
+}
+
+footer {
+    background: #000000;
+    color: #ffffff;
+    padding: 35px;
+    padding-bottom: 45px;
+}
+
+.footer-section{
+    display: flex;
+    gap: 70% 30%;
+}
+
+.btn-sec{
+
+    
+    osition: absolute;
+    width: 170.11px;
+    height: 64px;
+    left: 1046px;
+    top: 2921.96px;
+
+    color: #FFFFFF;
+
+
+    
+    background: #005FAC;
+    border-radius: 8px;
+    
+
+}
+
+
+input {
+    padding: 16px 40px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background: black;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.footer-p{
+
 }
 
